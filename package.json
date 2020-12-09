@@ -1,0 +1,14 @@
+{
+  "name": "aws-eb-archiver",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "cli.js",
+  "types": "eb-archiver.d.ts",
+  "main": "eb-archiver.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.1.0",
+    "yargs": "^16.2.0"
+  }
+}
